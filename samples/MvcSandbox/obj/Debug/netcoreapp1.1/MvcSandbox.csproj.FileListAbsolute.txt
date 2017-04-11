@@ -1,0 +1,9 @@
+C:\Users\JaniHyytiäinen\Source\Repos\Codepic.AspNetCore.Mvc.TagHelpers.Polymer\samples\MvcSandbox\bin\Debug\netcoreapp1.1\MvcSandbox.deps.json
+C:\Users\JaniHyytiäinen\Source\Repos\Codepic.AspNetCore.Mvc.TagHelpers.Polymer\samples\MvcSandbox\bin\Debug\netcoreapp1.1\MvcSandbox.runtimeconfig.json
+C:\Users\JaniHyytiäinen\Source\Repos\Codepic.AspNetCore.Mvc.TagHelpers.Polymer\samples\MvcSandbox\bin\Debug\netcoreapp1.1\MvcSandbox.runtimeconfig.dev.json
+C:\Users\JaniHyytiäinen\Source\Repos\Codepic.AspNetCore.Mvc.TagHelpers.Polymer\samples\MvcSandbox\bin\Debug\netcoreapp1.1\MvcSandbox.dll
+C:\Users\JaniHyytiäinen\Source\Repos\Codepic.AspNetCore.Mvc.TagHelpers.Polymer\samples\MvcSandbox\bin\Debug\netcoreapp1.1\MvcSandbox.pdb
+C:\Users\JaniHyytiäinen\Source\Repos\Codepic.AspNetCore.Mvc.TagHelpers.Polymer\samples\MvcSandbox\obj\Debug\netcoreapp1.1\MvcSandbox.csprojResolveAssemblyReference.cache
+C:\Users\JaniHyytiäinen\Source\Repos\Codepic.AspNetCore.Mvc.TagHelpers.Polymer\samples\MvcSandbox\obj\Debug\netcoreapp1.1\MvcSandbox.AssemblyInfo.cs
+C:\Users\JaniHyytiäinen\Source\Repos\Codepic.AspNetCore.Mvc.TagHelpers.Polymer\samples\MvcSandbox\obj\Debug\netcoreapp1.1\MvcSandbox.dll
+C:\Users\JaniHyytiäinen\Source\Repos\Codepic.AspNetCore.Mvc.TagHelpers.Polymer\samples\MvcSandbox\obj\Debug\netcoreapp1.1\MvcSandbox.pdb
